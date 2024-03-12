@@ -1,1 +1,1 @@
-# GIS-Python-Project
+# SentinelHubProject
